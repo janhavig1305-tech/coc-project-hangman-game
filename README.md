@@ -6,7 +6,7 @@ C:
 - for and while loops
 - if/else statements
 - Functions
-Maths:
+  Maths:
 - Data Application
 - Data Analysis
 # How to Compile
