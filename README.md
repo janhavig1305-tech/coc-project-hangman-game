@@ -16,6 +16,7 @@ gcc hangman.c -o hangman
 gcc hangman.c -o hangman
 ./hangman
 Welcome to the Hangman Game!
-Guess the word: -----
-Enter a letter(in uppercase): C
-Good job! 'C' is in the word.
+Word: -----
+Lives left: 5
+Guess a letter(in uppercase): C
+Good guess!
